@@ -11,9 +11,10 @@
     (LAYOUT_Netlist_File
        "\\vmware-host\Shared Folders\Mes Documents Host\Orcad\Layout\#test\Battery_controller_V01\cin\layout\BATT_MANAGER-V01.MNL")
     (LAYOUT_PCB_Footprint "{PCB Footprint}")
-    ( "TRUE")
+    (TRUE)
     (LAYOUT_Units "1")
-    (NoModify))
+    (NoModify)
+    ( "TRUE"))
   (Folder "Outputs"
     (File "..\cin\layout\batt_manager-v01.mnl"
       (Type "LAYOUT Netlist File")))
@@ -36,10 +37,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 225 1825 225 874")
-        (Scroll "0 0")
-        (Zoom "43")
+        (Scroll "0 489")
+        (Zoom "86")
         (Occurrence "/"))
       (Path
          "\\VMWARE-HOST\SHARED FOLDERS\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\SCHEMA\MESURE_CONSO_V01.DSN")
       (Schematic "Mesure_conso")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (MPSSessionName "Thunder"))
