@@ -1,0 +1,8 @@
+header
+Item\tQuantity\tReference\tPart\tPCB Footprint\tcompside\tRef Fournisseur
+
+
+
+String
+{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{compside}\t{Ref Fournisseur}
+

@@ -1,0 +1,45 @@
+AutoECO Report
+FILE-A: Z:\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\CIN\LAYOUT\BATT_MANAGER-V01.MAX
+FILE-B: \\VMWARE-HOST\SHARED FOLDERS\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\CIN\LAYOUT\BATT_MANAGER-V01.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint SM/C_0603
+Adding footprint SM/R_0603
+Adding footprint SM/R_1020
+Adding package PLOT_M4_2
+Adding package PLOT_M4_3
+Adding component J9
+Adding component J8
+Adding component J7
+Deleting J5.2 from net GND_SIGNAL
+Deleting J5.1 from net GND_SIGNAL
+Deleting J5.3 from net GND_SIGNAL
+Deleting J5.4 from net GND_SIGNAL
+Adding J9.3 to net GND_SIGNAL
+Adding J9.1 to net GND_SIGNAL
+Adding J9.5 to net GND_SIGNAL
+Adding J9.2 to net GND_SIGNAL
+Adding J9.4 to net GND_SIGNAL
+Deleting J4.2 from net NVBATT
+Deleting J4.1 from net NVBATT
+Deleting J4.4 from net NVBATT
+Deleting J4.3 from net NVBATT
+Adding J7.2 to net NVBATT
+Adding J7.1 to net NVBATT
+Adding J7.4 to net NVBATT
+Adding J7.3 to net NVBATT
+Adding J7.5 to net NVBATT
+Adding J1.5 to net PVBATT
+Deleting J3.3 from net PVBATT_OUT
+Deleting J3.2 from net PVBATT_OUT
+Deleting J3.4 from net PVBATT_OUT
+Deleting J3.1 from net PVBATT_OUT
+Adding J8.4 to net PVBATT_OUT
+Adding J8.3 to net PVBATT_OUT
+Adding J8.2 to net PVBATT_OUT
+Adding J8.1 to net PVBATT_OUT
+Adding J8.5 to net PVBATT_OUT
+Deleting component J5
+Deleting component J4
+Deleting component J3
+*EOF*
+No errors found

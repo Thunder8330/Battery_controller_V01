@@ -1,0 +1,15 @@
+AutoECO Report
+FILE-A: Z:\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\CIN\LAYOUT\BATT_MANAGER-V01-1.MAX
+FILE-B: \\VMWARE-HOST\SHARED FOLDERS\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\CIN\LAYOUT\BATT_MANAGER-V01.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting C7.2 from net GND_SIGNAL
+Deleting C3.2 from net GND_SIGNAL
+Deleting C5.2 from net GND_SIGNAL
+Deleting C3.1 from net N84363
+Deleting C5.1 from net P2V8
+Deleting C7.1 from net P2V8
+Deleting component C7
+Deleting component C5
+Deleting component C3
+*EOF*
+No errors found
