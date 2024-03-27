@@ -1,0 +1,54 @@
+AutoECO Report
+FILE-A: Z:\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\CIN\LAYOUT\BATT_MANAGER-V01-8.MAX
+FILE-B: \\VMWARE-HOST\SHARED FOLDERS\MES DOCUMENTS HOST\ORCAD\LAYOUT\#TEST\BATTERY_CONTROLLER_V01\CIN\LAYOUT\BATT_MANAGER-V01.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding component Q8
+Adding component Q9
+Adding component Q5
+Adding component Q4
+Adding component Q6
+Adding component Q7
+Adding net N1613295
+Deleting Q3.3 from net GND_SIGNAL
+Adding Q8.5 to net GND_SIGNAL
+Adding Q9.5 to net GND_SIGNAL
+Deleting Q3.2 from net N60479
+Adding Q9.2 to net N60479
+Adding Q8.3 to net N60479
+Adding Q8.2 to net N60479
+Adding Q8.1 to net N60479
+Adding Q9.1 to net N60479
+Adding Q9.3 to net N60479
+Deleting Q3.1 from net N68043
+Adding Q9.4 to net N68043
+Adding Q8.4 to net N68043
+Deleting Q1.1 from net N477345
+Deleting Q2.1 from net N477345
+Adding Q7.4 to net N477345
+Adding Q4.4 to net N477345
+Adding Q5.4 to net N477345
+Adding Q6.4 to net N477345
+Deleting Q2.3 from net N484441
+Adding Q5.5 to net N484441
+Adding Q6.5 to net N484441
+Deleting Q1.3 from net PVBATT
+Adding Q7.5 to net PVBATT
+Adding Q4.5 to net PVBATT
+Adding Q7.3 to net N1613295
+Adding Q7.2 to net N1613295
+Adding Q6.3 to net N1613295
+Adding Q6.2 to net N1613295
+Adding Q6.1 to net N1613295
+Adding Q7.1 to net N1613295
+Adding Q4.2 to net N1613295
+Adding Q4.3 to net N1613295
+Adding Q5.2 to net N1613295
+Adding Q5.1 to net N1613295
+Adding Q4.1 to net N1613295
+Adding Q5.3 to net N1613295
+Deleting component Q3
+Deleting component Q2
+Deleting component Q1
+Deleting net N478641
+*EOF*
+No errors found
